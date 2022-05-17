@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630763174978.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3750988049",
+    "id" : "750B2C51",
+    "lastKnownWriteTime" : 1630449409,
+    "last_content_update" : 1630449409,
+    "path" : "~/Documents/GitHub/groupGMC/code/grpgmc/R/cv_grGMC.R",
+    "project_path" : "R/cv_grGMC.R",
+    "properties" : {
+        "cursorPosition" : "58,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

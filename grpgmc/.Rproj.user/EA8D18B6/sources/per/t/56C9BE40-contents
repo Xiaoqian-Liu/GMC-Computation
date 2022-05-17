@@ -1,0 +1,15 @@
+Package: grpgmc
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.8.0
+Author: Xiaoqian Liu
+Maintainer: The package maintainer <xliu62@ncsu.edu>
+Description: Group regression with GMC penalization
+License: MIT + file LICENSE
+Depends: R (>= 3.5.0), grpreg, Matrix
+Imports:  MASS, gurobi 
+Suggests: knitr, survival
+VignetteBuilder: knitr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1

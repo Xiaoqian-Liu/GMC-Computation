@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+import("graphics")
+import("grDevices")
+import("stats")
+import("utils")
+import("grpreg")
+import("Matrix")
+useDynLib(grpgmc, .registration=TRUE)

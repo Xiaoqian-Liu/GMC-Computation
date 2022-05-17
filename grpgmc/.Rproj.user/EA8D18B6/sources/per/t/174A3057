@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630761965887.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4105995659",
+    "id" : "174A3057",
+    "lastKnownWriteTime" : 1630762746,
+    "last_content_update" : 1630762746893,
+    "path" : "~/Documents/GitHub/groupGMC/code/grpgmc/R/obj_socp.R",
+    "project_path" : "R/obj_socp.R",
+    "properties" : {
+        "cursorPosition" : "10,24",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
