@@ -1,0 +1,21 @@
+aic_grGMC               Compuete AIC for group GMC Defined in "On the
+                        Degrees of Freedom" of the Lasso"
+bic_grGMC               Compuete BIC for group GMC
+df_grGMC                DOF function in "Penalized methods for bi-level
+                        variable selection" Patrick Breheny and Jian
+                        Huang, 2009 Modified version
+eBIC_grGMC              Compuete BIC/eBIC for group GMC
+grGMC                   Linear regression with group GMC
+hello                   Hello, World!
+logLik.grGMC            Loglikelihood of group GMC
+multiG                  A function needed for standardization
+multiX                  A function needed for standardization
+newY                    A function needed for standardization
+orthogonalize           A function needed for standardization
+pdhg                    Adaptive PDHG algorithm for group GMC
+reorderG                A function needed for standardization
+select_grGMC            Select an value of lambda along a grGMC path
+setupG                  A function needed for standardization
+subsetG                 A function needed for standardization
+unorthogonalize         A function needed for standardization
+unstandardize           A function needed for standardization
